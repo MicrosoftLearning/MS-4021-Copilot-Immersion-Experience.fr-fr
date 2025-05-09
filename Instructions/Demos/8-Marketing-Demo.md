@@ -9,7 +9,7 @@ demo:
 
 **Scénario :**  
 
-Vous êtes responsable des opérations chez Contoso, responsable de la gestion de l’approvisionnement des fournisseurs et de l’exécution des projets. Votre objectif est d’analyser les anciens appels d’offres, d’extraire les critères de sélection clés et de développer un nouvel appel d’offre pour une initiative à venir.
+Vous faites partie de l’équipe marketing dans une entreprise de boissons et votre objectif est d’analyser les tendances du marché, de créer une analyse marketing et de développer une nouvelle campagne sur les réseaux sociaux.
 
 ## Configuration de la démonstration
 
