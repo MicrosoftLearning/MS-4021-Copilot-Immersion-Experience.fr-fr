@@ -65,7 +65,6 @@ Les fichiers spécifiques nécessaires pour cette démonstration sont les suivan
 
 1. Une fois ouvert, sélectionnez **Activer les modifications**, puis activez l’option « Enregistrement automatique ». Sélectionnez votre compte OneDrive lorsque vous y êtes invité.
 
-
 ### Copilot dans Word
 
 Nous demanderons maintenant à Copilot de développer ces stratégies et de rédiger des propositions sur la façon de les implémenter.
@@ -88,7 +87,7 @@ Nous demanderons maintenant à Copilot de développer ces stratégies et de réd
 
     > **Conseil pour le formateur :** utilisez cette étape pour montrer comment Copilot s’appuie sur des sorties antérieures, en affinant des idées dans une proposition cohérente.
 
-### Copilot dans PowerPoint
+### Copilot pour PowerPoint
 
 1. Lancez Microsoft PowerPoint à partir de votre navigateur [PowerPoint.new](https://PowerPoint.new) ou utilisez l’application de bureau.
 
