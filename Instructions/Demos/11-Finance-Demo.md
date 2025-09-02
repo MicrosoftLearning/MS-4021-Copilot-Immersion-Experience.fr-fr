@@ -19,7 +19,7 @@ Les fichiers spécifiques nécessaires pour cette démonstration sont les suivan
 
 - [EV_Charger_Sales_Analysis_v1.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/ResourceFiles/EV_Charger_Sales_Analysis_v1.xlsx)
 
-### Copilot dans Excel  
+### Copilot pour Excel  
 
 Utilisez Copilot pour Excel afin d’analyser les données de vente, d’identifier les tendances clés et de calculer les mesures financières.
 
@@ -88,7 +88,7 @@ Utilisez Copilot pour Excel afin d’analyser les données de vente, d’identif
 
 1. Calculer le chiffre d’affaires moyen par client
 
-    Entrez l’invite suivante :  
+    Entrez l’invite suivante :  
 
     ```text
     Calculate the average revenue per customer.
@@ -174,3 +174,5 @@ Utilisez Copilot pour Word afin de résumer les informations financières dans u
     - Utiliser un ton moins formel
 
 1. Une fois terminé, vous pouvez sélectionner **Conserver**.
+
+[Revenir à l’index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
