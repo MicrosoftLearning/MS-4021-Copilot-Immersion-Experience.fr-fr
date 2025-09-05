@@ -80,6 +80,8 @@ Utilisez l’**Assistant de recherche** pour découvrir comment Copilot et les a
 
     > **CONSEIL :** Recherchez les cas où un assistant pourrait faciliter la recherche, la réutilisation ou le partage des connaissances.
 
+    > **REMARQUE :** Le recherche peut prendre 5 à 10 minutes, en fonction de votre demande. Ses réponses sont très détaillées, donc pendant qu’elle est en cours d’exécution, essayez d’exécuter la même invite dans Copilot Chat. La comparaison des deux sorties est un excellent moyen de voir comment chaque outil aborde la tâche.
+
 ### Tâche 4 : Conceptualisez votre assistant
 
 Maintenant, utilisez ces informations pour créer un assistant fictif simple dans **Copilot Studio**. Concentrez-vous sur la recherche : votre assistant doit vous aider à trouver, organiser ou résumer les informations.

@@ -57,11 +57,13 @@ Utilisez l’**Assistant de recherche** pour découvrir comment Copilot ou les a
 - Essayez un exemple de prompt comme celui-ci :  
 
    ```text
-   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
-    > **CONSEIL :** Concentrez-vous sur des cas d’utilisation pratiques et quotidiens, comme afficher rapidement un document ou extraire des mises à jour de plusieurs sources.  
-
+    > **CONSEIL :** Concentrez-vous sur des cas d’utilisation pratiques et quotidiens, comme afficher rapidement un document ou extraire des mises à jour de plusieurs sources.
+  
+    > **REMARQUE :** Le recherche peut prendre 5 à 10 minutes, en fonction de votre demande. Ses réponses sont très détaillées, donc pendant qu’elle est en cours d’exécution, essayez d’exécuter la même invite dans Copilot Chat. La comparaison des deux sorties est un excellent moyen de voir comment chaque outil aborde la tâche.
+    
 ### Tâche 3 : Générez et testez votre assistant  
 
 Maintenant, créez un assistant de récupération simple dans **Copilot Studio** pour répondre à votre problème.  

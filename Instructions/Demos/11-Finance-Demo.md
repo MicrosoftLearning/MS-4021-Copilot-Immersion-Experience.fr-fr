@@ -25,7 +25,7 @@ Utilisez Copilot pour Excel afin d’analyser les données de vente, d’identif
 
 1. Lancer Excel et ouvrir le fichier  
 
-1. Ouvrez **Finance_Sales_Analysis.xlsx** dans Excel (dans votre navigateur ou votre application de bureau).  
+1. Ouvrez **EV_Charger_Sales_Analysis_v1.xlsx** dans Excel (dans votre navigateur ou votre application de bureau).  
 
 1. Accédez à l’onglet **« Ventes par produit »**.  
 
