@@ -35,7 +35,7 @@ Utilisez Copilot pour Word afin de rédiger un rapport détaillé d’analyse du
 
 1. Ouvrez Word (dans votre navigateur ou votre application de bureau).
 
-1. Dans la zone d’invite **Décrivez ce que vous souhaitez écrire**, tapez ce qui suit :
+1. Dans la boîte de dialogue **Que souhaitez-vous que Copilot rédige ?**, tapez ce qui suit :
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -53,7 +53,7 @@ Utilisez Copilot pour Word afin de rédiger un rapport détaillé d’analyse du
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. Enregistrez ce nouveau document sous **LATAM_Market_Analysis.docx**.
+1. Dans la fenêtre Copilot, sélectionnez Conserver pour transformer le document Copilot en document Word. Enregistrez ensuite ce nouveau document sous le nom **LATAM_Market_Analysis.docx**.
 
 ### Copilot Chat
 
@@ -97,7 +97,7 @@ Utilisez Copilot Chat pour évaluer l’efficacité des campagnes sur les rése
 
 ### Copilot pour Excel
 
-1. Vérifiez que vous avez téléchargé [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) et ouvrez le document dans Excel (sur le web ou dans l’application de bureau).
+1. Assurez-vous d’avoir téléchargé [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) et ouvrez le document dans Excel (sur le Web ou dans l’application de bureau).
 
 1. Dans le ruban, sélectionnez **Copilot** pour ouvrir le volet Copilot.
 
@@ -113,7 +113,7 @@ Utilisez Copilot Chat pour évaluer l’efficacité des campagnes sur les rése
     Can you show a correlation between social media engagement and sales?
     ```
 
-1. Tapez ensuite l’invite suivante :
+1. Ensuite, tapez le prompt suivant :
 
     ```text
     How many social media campaign views did we have from September to December?

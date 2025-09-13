@@ -57,7 +57,7 @@ Commençons par demander à Copilot de créer un plan d’implémentation de pro
     Please export the project plan to a Word document.
     ```
 
-1. Enregistrez le document Word généré sous **Project_Implementation_Plan.docx**. Copiez l’URL partagée à partir du document (activez l’enregistrement automatique et sélectionnez votre compte OneDrive si vous y êtes invité).
+1. Sélectionnez le lien fourni par Copilot vers le fichier nouvellement créé pour le télécharger dans votre dossier Téléchargements. Déplacez le fichier vers votre dossier OneDrive et ouvrez-le. Copiez l’URL partagée à partir du document (activez l’enregistrement automatique et sélectionnez votre compte OneDrive si vous y êtes invité).
 
     ![Partagez un lien.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -67,7 +67,7 @@ Nous demanderons maintenant à Copilot de développer ces stratégies et de réd
 
 1. Ouvrez Word (dans votre navigateur ou votre application de bureau).
 
-1. Dans la zone d’invite **Décrivez ce que vous souhaitez écrire**, tapez ce qui suit :
+1. Dans la boîte de dialogue **Que souhaitez-vous que Copilot rédige ?**, tapez ce qui suit :
 
     ```text
     Using the Contoso [/CipherGuard Product Specification.docx] and the 'Project Implementation Plan' template provided in [paste in link to Project_Implementation_Plan.docx], draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.
@@ -84,7 +84,7 @@ Nous demanderons maintenant à Copilot de développer ces stratégies et de réd
 
     ![Partagez un lien.](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
-### Copilot dans PowerPoint
+### Copilot pour PowerPoint
 
 Nous allons maintenant utiliser Copilot pour générer une présentation PowerPoint basée sur la nouvelle proposition d’implémentation du produit Contoso CipherGuard.
 
