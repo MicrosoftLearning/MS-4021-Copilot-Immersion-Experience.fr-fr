@@ -35,7 +35,7 @@ Nous allons commencer par examiner la transcription de l’appel sur les revenus
 
     ![Icône Copilot dans Word](../Demos/Media/Copilot-in-word-ribbon.png)
 
-1. Le volet Copilot doit s’ouvre. Entrez l’invite suivante où le message **« Posez-moi une question sur ce document** est affiché :
+1. Le volet Copilot doit s’ouvre. Entrez le prompt suivant à l’endroit indiqué **+ Que souhaitez-vous que Copilot rédige ?**  :
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
@@ -67,7 +67,6 @@ Nous allons commencer par examiner la transcription de l’appel sur les revenus
 1. Une fois que Copilot a terminé l’analyse, sélectionnez l’icône **Copier** pour enregistrer les résultats en vue de l’étape suivante.
 
     ![Copiez les résultats.](../Demos/Media/Copilot-in-word-copy-results.png)
-
 
 ### Copilot Chat
 
@@ -103,7 +102,7 @@ Le rapport fourni par Word est un excellent point de départ, mais maintenant no
     Based on the summarized executive summary, generate 5-7 concise and impactful talking points my manager can use in their next leadership call. Focus on key achievements, growth areas, and strategic priorities.
     ```
 
-### Copilot dans Outlook
+### Copilot pour Outlook
 
 Dans cette démonstration, nous allons utiliser Copilot pour Outlook afin d’organiser une réunion avec les cadres pour les informer de tout ce qui s’est passé au cours de la téléconférence sur les bénéfices du deuxième trimestre.
 

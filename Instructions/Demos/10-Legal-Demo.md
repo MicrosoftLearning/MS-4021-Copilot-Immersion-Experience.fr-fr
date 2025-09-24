@@ -19,9 +19,9 @@ Il n’existe aucun exemple de documents requis pour cette démonstration.
 
 ### Copilot Chat
 
-Commençons par effectuer des recherches sur la Législation sur l’IA et son impact potentiel sur l’outil IA de recrutement de Contoso.
+Commençons par faire des recherches sur la loi européenne relative à l’intelligence artificielle et son impact potentiel sur l’outil de recrutement basé sur l’IA de Contoso.
 
-1. Ouvrez un navigateur et accédez à [M365copilot.com](https://m365copilot.com/).
+1. Ouvrez un navigateur et accédez à [M365Copilot.com](https://m365Copilot.com/).
 
 1. Vérifiez que **Mode web** est sélectionné.
 
@@ -49,13 +49,13 @@ Commençons par effectuer des recherches sur la Législation sur l’IA et son i
     Are there any exemptions in the AI Act that could apply to Contoso’s system?
     ```
 
-1. Demandez maintenant au copilote de résumer toutes les informations obtenues jusqu’à présent :
+1. Demandez maintenant à Copilot de résumer toutes les informations obtenues jusqu’à présent :
 
     ```text
     Summarize all the information we've discussed into a structured list, ensuring no key details are missed. Then, export the summary to a Word document
     ```
 
-1. Sélectionnez le lien hypertexte fourni par le copilote pour le nouveau document Word afin de l’ouvrir.
+1. Sélectionnez le lien hypertexte fourni par Copilot pour le nouveau document Word afin de l’ouvrir.
 
 1. Une fois ouvert, sélectionnez **Activer les modifications**, puis activez l’option « Enregistrement automatique ». Sélectionnez votre compte OneDrive lorsque vous y êtes invité.
 
@@ -83,15 +83,15 @@ Commençons par effectuer des recherches sur la Législation sur l’IA et son i
     Add a section on the potential business impact of these compliance requirements.
     ```
 
-1. Autres affinements facultatifs :
+1. Autres améliorations facultatives :
 
-    - Demandez à Copilot de reformuler des sections pour leur donner un ton plus professionnel.
+    - Demandez à Copilot de reformuler certaines sections pour adopter un ton plus professionnel.
     - Demandez une version plus courte et plus concise si le résumé est trop long.
     - Complétez par des sections supplémentaires.
 
 1. Après avoir examiné et finalisé le document, **copiez le résumé généré** dans le presse-papiers pour l’utiliser dans la démonstration suivante.
 
-### Copilot dans Outlook
+### Copilot pour Outlook
 
 Enfin, nous allons rédiger un e-mail à la direction de Contoso pour résumer nos résultats et les étapes suivantes.
 
