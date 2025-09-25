@@ -50,7 +50,7 @@ Utilisez l’**Assistant de recherche** pour découvrir comment Copilot ou les a
 
 **Étapes :**  
 
-- Dans le menu Copilot Chat, développez **Assistants** et sélectionnez **Chercheur**.  
+- Dans le menu Copilot Chat, développez **Agents** (si nécessaire) et sélectionnez **Chercheur**.  
 
    ![Capture d’écran montrant Chercheur sélectionné dans le menu M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -62,11 +62,11 @@ Utilisez l’**Assistant de recherche** pour découvrir comment Copilot ou les a
 
     > **CONSEIL :** Concentrez-vous sur des cas d’utilisation pratiques et quotidiens, comme afficher rapidement un document ou extraire des mises à jour de plusieurs sources.
   
-    > **REMARQUE :** Le recherche peut prendre 5 à 10 minutes, en fonction de votre demande. Ses réponses sont très détaillées, donc pendant qu’elle est en cours d’exécution, essayez d’exécuter la même invite dans Copilot Chat. La comparaison des deux sorties est un excellent moyen de voir comment chaque outil aborde la tâche.
-    
+    > **REMARQUE :** La recherche peut prendre entre 5 et 10 minutes (voire plus), selon votre demande. Ses réponses sont très détaillées, donc pendant qu’elle est en cours d’exécution, essayez d’exécuter la même invite dans Copilot Chat. La comparaison des deux sorties est un excellent moyen de voir comment chaque outil aborde la tâche.
+
 ### Tâche 3 : Générez et testez votre assistant  
 
-Maintenant, créez un assistant de récupération simple dans **Copilot Studio** pour répondre à votre problème.  
+Maintenant, créez un assistant de récupération simple dans **Copilot Studio lite** pour répondre à votre problème.  
 
 **Étapes :**  
 

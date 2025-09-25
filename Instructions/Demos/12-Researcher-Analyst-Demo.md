@@ -21,7 +21,7 @@ Pour réaliser ces démonstrations, vous devrez télécharger le [Pack de conten
 Pour accéder à ces assistants :  
 
 - Ouvrez l’**application Copilot** à partir de [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Utilisez le **menu de navigation gauche** pour sélectionner **Recherche** ou **Analyste**.  
+- Sélectionnez **Chercheur** ou **Analyste** dans le volet de navigation.  
 
 > **Remarque :** Vous devrez orienter Recherche et Analyste vers des fichiers internes (SharePoint/OneDrive) pour obtenir des informations détaillées.
 
@@ -42,7 +42,7 @@ Pour accéder à ces assistants :
 
 > **IMPORTANT :** Les étapes 1 à 4 doivent être réalisées au début de la formation (comme indiqué dans la diapositive 5) afin de laisser suffisamment de temps à Recherche pour traiter le premier prompt.
 
-1. Ouvrez **Recherche** dans le menu de navigation gauche de l’application Copilot.  
+1. Ouvrez **Chercheur** à partir du volet de navigation.  
 
     ![Capture d’écran montrant Chercheur sélectionné dans le menu M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -60,7 +60,7 @@ Pour accéder à ces assistants :
    - **/SprintCycle Charger Product Launch.docx**  
    - *(Facultatif)* **/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Cliquez sur **Envoyer**.  
+1. Sélectionnez **Soumettre**.  
 
 Chercheur va :  
 
@@ -72,7 +72,9 @@ Chercheur va :
 
 ### Analyste : Segmentation client et modélisation financière
 
-1. Ouvrez **Analyste** dans le menu de navigation gauche de l’application Copilot.  
+**Remarque :** Cette démonstration ne concerne pas la version Executive du contenu. Passez plutôt à la démonstration **Copilot Studio**.
+
+1. Ouvrez **Analyste** à partir du volet de navigation.
 
     ![Capture d’écran montrant Analyste sélectionné dans le menu M365 Copilot.](../Prompts/Media/analyst.png)  
 
