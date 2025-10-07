@@ -23,11 +23,13 @@ Les fichiers spécifiques nécessaires pour cette démonstration sont les suivan
 
 ## Étapes de la version de démonstration
 
-### Copilot dans Excel
+### Copilot pour Excel
 
 1. Lancez Excel (dans votre navigateur ou votre application de bureau) et ouvrez le fichier **EV_Charger_Sales_Analysis_v1.xlsx**.
 
 1. **Accédez à l’onglet « Ventes par produit »** dans le fichier Excel.
+
+1. sélectionnez **Copilot** dans le ruban Excel, puis sélectionnez **Compétences de l’application** pour ouvrir le volet Copilot.
 
 1. Utilisez Copilot pour calculer les revenus mensuels :  
 
@@ -115,7 +117,7 @@ Maintenant que nous avons identifié la lenteur de charge comme un problème cl�
     Based on this information, suggest 5 strategic questions to ask the product team during our meeting tomorrow. Focus on identifying root causes, assessing risks, and brainstorming potential improvements.
     ```
 
-### Copilot dans Outlook
+### Copilot pour Outlook
 
 Dans cette démonstration, nous allons utiliser Copilot pour Outlook afin d’organiser une réunion avec le chef de projet responsable de la gamme de produits des chargeurs des véhicules électriques pour discuter des solutions potentielles.
 

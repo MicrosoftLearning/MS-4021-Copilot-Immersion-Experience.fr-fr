@@ -99,7 +99,7 @@ Utilisez Copilot Chat pour évaluer l’efficacité des campagnes sur les rése
 
 1. Assurez-vous d’avoir téléchargé [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx) et ouvrez le document dans Excel (sur le Web ou dans l’application de bureau).
 
-1. Dans le ruban, sélectionnez **Copilot** pour ouvrir le volet Copilot.
+1. sélectionnez **Copilot** dans le ruban Excel, puis sélectionnez **Compétences de l’application** pour ouvrir le volet Copilot.
 
 1. Tapez l’invite suivante dans Excel :
 
