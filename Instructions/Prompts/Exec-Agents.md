@@ -53,13 +53,13 @@ Pour orienter votre réflexion, considérez les points suivants :
 - Où l’information se bloque-t-elle ou se perd-elle ?  
 - Qui est le plus impacté ?  
 
-    **Exemple de prompt (Copilot Chat – Mode de travail) :**
+**Essayez un exemple de prompt comme celui-ci :**
 
-    ```text
-    Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
-    ```
+```text
+Break down the problem of [insert challenge]. Identify root causes, pain points, and which areas of work are most affected.
+ ```
 
-    > **CONSEIL :** Réfléchissez aux situations dans lesquelles la récupération de connaissances vous ferait gagner du temps ou aiderait votre équipe à prendre des décisions plus rapidement.
+> **CONSEIL :** Réfléchissez aux situations dans lesquelles la récupération de connaissances vous ferait gagner du temps ou aiderait votre équipe à prendre des décisions plus rapidement.
 
 ### Tâche 3 : Explorez les idées de solutions IA avec Recherche
 
@@ -68,7 +68,7 @@ Utilisez l’**Assistant de recherche** pour découvrir comment Copilot et les a
 **Étapes :**
 
 - Ouvrez un nouvel onglet dans votre navigateur et accédez à [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-- Dans le menu Copilot Chat, développez **Assistants** et sélectionnez **Chercheur**  
+- Dans le menu Copilot Chat, développez **Agents** (si nécessaire) et sélectionnez **Chercheur**.
 
     ![Capture d’écran montrant Chercheur sélectionné dans le menu M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -80,18 +80,18 @@ Utilisez l’**Assistant de recherche** pour découvrir comment Copilot et les a
 
     > **CONSEIL :** Recherchez les cas où un assistant pourrait faciliter la recherche, la réutilisation ou le partage des connaissances.
 
-    > **REMARQUE :** Le recherche peut prendre 5 à 10 minutes, en fonction de votre demande. Ses réponses sont très détaillées, donc pendant qu’elle est en cours d’exécution, essayez d’exécuter la même invite dans Copilot Chat. La comparaison des deux sorties est un excellent moyen de voir comment chaque outil aborde la tâche.
+    > **REMARQUE :** La recherche peut prendre entre 5 et 10 minutes (voire plus), selon votre demande. Ses réponses sont très détaillées, donc pendant qu’elle est en cours d’exécution, essayez d’exécuter la même invite dans Copilot Chat. La comparaison des deux sorties est un excellent moyen de voir comment chaque outil aborde la tâche.
 
-### Tâche 4 : Conceptualisez votre assistant
+### Tâche 4 : Créez votre agent
 
-Maintenant, utilisez ces informations pour créer un assistant fictif simple dans **Copilot Studio**. Concentrez-vous sur la recherche : votre assistant doit vous aider à trouver, organiser ou résumer les informations.
+Maintenant, utilisez vos connaissances pour créer un agent fictif simple dans **Copilot Studio lite**. Concentrez-vous sur la recherche : votre assistant doit vous aider à trouver, organiser ou résumer les informations.
 
 **Étapes :**
 
-- **Démarrer dans Copilot Studio**
+- **Démarrer dans Copilot Studio lite**
 
     1. Ouvrez votre navigateur et accédez à [m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat).
-    1. Sélectionnez **Créer un assistant** dans la barre latérale droite pour lancer **Copilot Studio**.
+    1. Sélectionnez **Créer un agent** dans la barre latérale droite pour lancer **Copilot Studio**.
 
         ![Capture d’écran montrant le lien pour créer un assistant.](../Prompts/Media/create-agent.png)
 
@@ -107,7 +107,7 @@ Maintenant, utilisez ces informations pour créer un assistant fictif simple dan
 
         > **REMARQUE :** Vous pouvez partir de zéro ou baser votre assistant sur un modèle, qui préremplit les paramètres et les instructions que vous pourrez personnaliser ultérieurement.
 
-    1. Si l’option **Décrire** n’est pas disponible, passez à l’onglet **Configurer** et entrez manuellement les mêmes informations : nom, description et instructions de l’assistant.
+    1. Vous avez effectué l’étape précédente si l’onglet **Décrire** était disponible. Si il n'est pas disponible, passez à l'onglet **Configurer** et saisissez manuellement les mêmes informations : nom, description et instructions pour l'agent.
 
         ![Capture d’écran montrant la configuration de l’assistant.](../Prompts/Media/name-describe-agent.png)
 
@@ -127,7 +127,7 @@ Maintenant, utilisez ces informations pour créer un assistant fictif simple dan
 
 - **Tester et créer**
 
-    1. Utilisez la fonction **Tester** (disponible dans le volet de droite tout au long du processus de création de l’assistant) pour essayer votre assistant brouillon et corriger d’éventuels problèmes.
+    1. Utilisez la fonction **Tester** (disponible dans le volet de droite tout au long du processus de création de l’assistant) pour essayer votre agent brouillon et corriger d’éventuels problèmes.
     2. Une fois satisfait, sélectionnez **Créer** pour publier l’assistant.
     3. Partagez votre assistant avec d’autres personnes ou ouvrez-le pour l’utiliser immédiatement.  
 

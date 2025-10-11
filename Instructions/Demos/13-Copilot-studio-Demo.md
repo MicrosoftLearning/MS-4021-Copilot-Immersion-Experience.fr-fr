@@ -1,15 +1,15 @@
 ---
 demo:
-  title: Générez un assistant avec Copilot Studio
+  title: Créez un agent avec Copilot Studio Lite
 ---
 
 [Revenir à l’index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
 
 ---
 
-# Générez et publiez un assistant à l’aide de Copilot Chat
+# Créez et publiez un agent à l'aide de Copilot Studio Lite
 
-Cette version de démonstration explique comment créer un assistant virtuel à l’aide de Copilot Studio via Copilot Chat et le publier sur Microsoft 365 Copilot.
+Cette démonstration explique comment créer un assistant virtuel à l'aide de Copilot Studio Lite via Copilot Chat et le publier sur Microsoft 365 Copilot.
 
 ## Configuration de la démonstration
 
@@ -25,17 +25,17 @@ Pour réaliser ces démonstrations, vous devrez télécharger les fichiers suiva
 
 ## Points de discussion
 
-Copilot Studio nous permet de générer des copilotes personnalisés, adaptés à des projets, des services ou des bases de connaissances spécifiques. Nous pouvons leur attribuer une personnalité, définir leurs limites et leur fournir des documents spécifiques afin de garantir des réponses de haute qualité et détaillées.
+Copilot Studio Lite nous permet de créer des copilotes personnalisés, adaptés à des projets, des services ou des bases de connaissances spécifiques. Nous pouvons leur attribuer une personnalité, définir leurs limites et leur fournir des documents spécifiques afin de garantir des réponses de haute qualité et détaillées.
 
 Dans cette version de démonstration, nous allons créer un assistant virtuel pour le projet de livraison par drone ReleCloud. L’assistant connaîtra tout ce que nous avons téléchargé et aidera à répondre aux questions de l’équipe, ce qui permettra de gagner du temps et d’améliorer la productivité.
 
 ## Étapes de la version de démonstration
 
-### Étape 1 : accédez à Copilot Studio
+### Étape 1 – Accédez à Copilot Studio Lite
 
-1. Accédez à [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) et sélectionnez **Créer un assistant** dans le rail droit.
+1. Accédez à [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) et sélectionnez **Créer un agent** dans le volet de navigation.
 
-    ![Capture d’écran montrant le lien pour créer un assistant.](../Prompts/media/create-agent.png)
+    ![Capture d’écran montrant le lien pour créer un assistant.](../Prompts/Media/create-agent.png)
 
 1. Connectez-vous à l'aide de vos informations d'identification.
 
@@ -73,7 +73,7 @@ Dans cette version de démonstration, nous allons créer un assistant virtuel po
     Friendly and professional
     ```
 
-> **IMPORTANT :**  Selon votre environnement, toutes ces options ne vous seront pas nécessairement proposées. Si vous n’y êtes pas invité, vous pouvez ajouter ces informations à l’aide de l’onglet **Configurer** dans Copilot Studio.
+> **IMPORTANT :**  Selon votre environnement, toutes ces options ne vous seront pas nécessairement proposées. Si vous n’y êtes pas invité, vous pouvez ajouter ces informations à l’aide de l’onglet **Configurer** dans Copilot Studio lite.
 
 ### Étape 3 : configurez l’assistant
 
@@ -109,7 +109,7 @@ Dans le volet de test droit, essayez de poser quelques-unes des questions suivan
 
 ### Étape 5 : publier et partager
 
-1. Cliquez sur **Créer** pour publier l’assistant.
+1. Cliquez sur **Créer** pour publier l’agent.
 1. Sélectionnez **Modifier les paramètres de partage** et choisissez **Tout le monde dans votre organisation**.
 1. Copiez le lien de partage et collez-le dans une conversation Teams pour y accéder facilement.
 

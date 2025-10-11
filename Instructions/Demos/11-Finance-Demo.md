@@ -29,6 +29,8 @@ Utilisez Copilot pour Excel afin d’analyser les données de vente, d’identif
 
 1. Accédez à l’onglet **« Ventes par produit »**.  
 
+1. sélectionnez **Copilot** dans le ruban Excel, puis sélectionnez **Compétences de l’application** pour ouvrir le volet Copilot.
+
 1. Utilisez Copilot pour trier le tableau en entrant l’invite suivante :  
 
     ```text
