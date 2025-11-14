@@ -7,21 +7,21 @@ demo:
 
 # Version de démonstration Chercheur et Analyste
 
-Cette version de démonstration montre comment utiliser **Chercheur** et **Analyste**, deux assistants experts intégrés à l’application Copilot.  
+Cette version de démonstration montre comment utiliser**Chercheur** et**Analyste**, deux assistants experts intégrés à l’application Copilot.  
 
 - **Chercheur** vous aide à réaliser des tâches de recherche en plusieurs étapes, en combinant les données web avec les fichiers et connaissances de votre entreprise.  
 - **Analyste** pense comme un scientifique des données expérimenté, capable d’effectuer des analyses de données avancées et d’exécuter des scripts Python, même si vous ne savez pas coder.  
 
 ## Configuration de la démonstration
 
-Pour réaliser ces démonstrations, vous devrez télécharger le [Pack de contenu de démonstration Recherche et Analyste](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW), qui contient tous les fichiers et ressources nécessaires.  
+Pour réaliser ces démonstrations, vous devrez télécharger le[Pack de contenu de démonstration Recherche et Analyste](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Researcher_and_Analyst_Demo_Content_Pack.zip), qui contient tous les fichiers et ressources nécessaires.  
 
-> **CONSEIL :** Avant de présenter la démonstration, vous pouvez créer un site SharePoint dans votre environnement de démonstration pour y stocker tous les fichiers et y accéder facilement. Vous pouvez également stocker les fichiers localement et les référencer directement dans vos prompts à l’aide de **/**.  
+> **CONSEIL :** Avant de présenter la démonstration, vous pouvez créer un site SharePoint dans votre environnement de démonstration pour y stocker tous les fichiers et y accéder facilement. Vous pouvez également stocker les fichiers localement et les référencer directement dans vos prompts à l’aide de**/**.  
 
 Pour accéder à ces assistants :  
 
-- Ouvrez l’**application Copilot** à partir de [m365.cloud.microsoft](https://m365.cloud.microsoft).  
-- Sélectionnez **Chercheur** ou **Analyste** dans le volet de navigation.  
+- Ouvrez l’**application Copilot** à partir de[m365.cloud.microsoft](https://m365.cloud.microsoft).  
+- Sélectionnez**Chercheur** ou**Analyste** dans le volet de navigation.  
 
 > **Remarque :** Vous devrez orienter Recherche et Analyste vers des fichiers internes (SharePoint/OneDrive) pour obtenir des informations détaillées.
 
@@ -42,7 +42,7 @@ Pour accéder à ces assistants :
 
 > **IMPORTANT :** Les étapes 1 à 4 doivent être réalisées au début de la formation (comme indiqué dans la diapositive 5) afin de laisser suffisamment de temps à Recherche pour traiter le premier prompt.
 
-1. Ouvrez **Chercheur** à partir du volet de navigation.  
+1. Ouvrez**Chercheur** à partir du volet de navigation.  
 
     ![Capture d’écran montrant Chercheur sélectionné dans le menu M365 Copilot.](../Prompts/Media/researcher.png)  
 
@@ -55,12 +55,12 @@ Pour accéder à ces assistants :
     Include insights from competitors and our past GTM campaigns.
     ```
 
-1. Joignez les fichiers de référence à l’aide de `/` (pointez vers SharePoint/OneDrive) :  
+1. Joignez les fichiers de référence à l’aide de`/` (pointez vers SharePoint/OneDrive) :  
 
    - **/SprintCycle Charger Product Launch.docx**  
-   - *(Facultatif)* **/Contoso - PedalPerks GTM Plan.docx**  
+   - *(Facultatif)***/Contoso - PedalPerks GTM Plan.docx**  
 
-1. Sélectionnez **Soumettre**.  
+1. Sélectionnez**Soumettre**.  
 
 Chercheur va :  
 
@@ -72,9 +72,9 @@ Chercheur va :
 
 ### Analyste : Segmentation client et modélisation financière
 
-**Remarque :** Cette démonstration ne concerne pas la version Executive du contenu. Passez plutôt à la démonstration **Copilot Studio**.
+**Remarque :** Cette démonstration ne concerne pas la version Executive du contenu. Passez plutôt à la démonstration**Copilot Studio**.
 
-1. Ouvrez **Analyste** à partir du volet de navigation.
+1. Ouvrez**Analyste** à partir du volet de navigation.
 
     ![Capture d’écran montrant Analyste sélectionné dans le menu M365 Copilot.](../Prompts/Media/analyst.png)  
 
@@ -85,13 +85,13 @@ Chercheur va :
     include a graph to show how this will maximize our market opportunity.
     ```
 
-1. Joignez le fichier à l’aide de **+**  :  
+1. Joignez le fichier à l’aide de**+**  :  
 
    - **BoulderEV ebike Internal Market Forecast.xlsx**  
 
     ![Capture d’écran montrant les fichiers joints dans Analyste.](../Prompts/Media/Analyst-Attach-Files.png)  
 
-1. Cliquez sur **Envoyer**.  
+1. Cliquez sur**Envoyer**.  
 
 Analyste va :  
 
@@ -101,7 +101,7 @@ Analyste va :
 
 ### Scénarios supplémentaires pour Analyste
 
-Vous pouvez exécuter ces prompts supplémentaires pour varier les analyses. Chacune suit le même modèle : **Prompt → Joindre un fichier → Soumettre → Examiner les résultats.**
+Vous pouvez exécuter ces prompts supplémentaires pour varier les analyses. Chacune suit le même modèle :**Prompt → Joindre un fichier → Soumettre → Examiner les résultats.**
 
 - **Projection financière**  
 
@@ -109,7 +109,7 @@ Vous pouvez exécuter ces prompts supplémentaires pour varier les analyses. Cha
     Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
     ```  
 
-    Fichier : **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Fichier :**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Performance de ventes**  
 
@@ -118,7 +118,7 @@ Vous pouvez exécuter ces prompts supplémentaires pour varier les analyses. Cha
     along with a visualization of the best-selling products.
     ```  
 
-    Fichier : **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Fichier :**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **Performance de la campagne**  
 
@@ -127,13 +127,13 @@ Vous pouvez exécuter ces prompts supplémentaires pour varier les analyses. Cha
     and help me decide where to re-target our next campaign.
     ```  
 
-    Fichier : **BoulderEV ebike Internal Market Forecast.xlsx**  
+    Fichier :**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 ## À retenir
 
 - **Chercheur** : accélère la stratégie et la planification avec des recherches de haute qualité.  
 - **Analyste** : fournit des informations basées sur les données grâce à des analyses et des visualisations avancées.  
 
-Ensemble, Chercheur et Analyste raccourcissent le chemin de la **question à l’information**, transformant ainsi des semaines de travail en quelques minutes.  
+Ensemble, Chercheur et Analyste raccourcissent le chemin de la**question à l’information**, transformant ainsi des semaines de travail en quelques minutes.  
 
 [Revenir à l’index](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
